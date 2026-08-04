@@ -1,0 +1,54 @@
+COLUMNS:
+Type | dtype: str | nulls: 0
+Days for shipping (real) | dtype: int64 | nulls: 0
+Days for shipment (scheduled) | dtype: int64 | nulls: 0
+Benefit per order | dtype: float64 | nulls: 0
+Sales per customer | dtype: float64 | nulls: 0
+Delivery Status | dtype: str | nulls: 0
+Late_delivery_risk | dtype: int64 | nulls: 0
+Category Id | dtype: int64 | nulls: 0
+Category Name | dtype: str | nulls: 0
+Customer City | dtype: str | nulls: 0
+Customer Country | dtype: str | nulls: 0
+Customer Email | dtype: str | nulls: 0
+Customer Fname | dtype: str | nulls: 0
+Customer Id | dtype: int64 | nulls: 0
+Customer Lname | dtype: str | nulls: 8
+Customer Password | dtype: str | nulls: 0
+Customer Segment | dtype: str | nulls: 0
+Customer State | dtype: str | nulls: 0
+Customer Street | dtype: str | nulls: 0
+Customer Zipcode | dtype: float64 | nulls: 3
+Department Id | dtype: int64 | nulls: 0
+Department Name | dtype: str | nulls: 0
+Latitude | dtype: float64 | nulls: 0
+Longitude | dtype: float64 | nulls: 0
+Market | dtype: str | nulls: 0
+Order City | dtype: str | nulls: 0
+Order Country | dtype: str | nulls: 0
+Order Customer Id | dtype: int64 | nulls: 0
+order date (DateOrders) | dtype: str | nulls: 0
+Order Id | dtype: int64 | nulls: 0
+Order Item Cardprod Id | dtype: int64 | nulls: 0
+Order Item Discount | dtype: float64 | nulls: 0
+Order Item Discount Rate | dtype: float64 | nulls: 0
+Order Item Id | dtype: int64 | nulls: 0
+Order Item Product Price | dtype: float64 | nulls: 0
+Order Item Profit Ratio | dtype: float64 | nulls: 0
+Order Item Quantity | dtype: int64 | nulls: 0
+Sales | dtype: float64 | nulls: 0
+Order Item Total | dtype: float64 | nulls: 0
+Order Profit Per Order | dtype: float64 | nulls: 0
+Order Region | dtype: str | nulls: 0
+Order State | dtype: str | nulls: 0
+Order Status | dtype: str | nulls: 0
+Order Zipcode | dtype: float64 | nulls: 155679
+Product Card Id | dtype: int64 | nulls: 0
+Product Category Id | dtype: int64 | nulls: 0
+Product Description | dtype: float64 | nulls: 180519
+Product Image | dtype: str | nulls: 0
+Product Name | dtype: str | nulls: 0
+Product Price | dtype: float64 | nulls: 0
+Product Status | dtype: int64 | nulls: 0
+shipping date (DateOrders) | dtype: str | nulls: 0
+Shipping Mode | dtype: str | nulls: 0
