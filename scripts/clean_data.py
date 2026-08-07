@@ -11,7 +11,7 @@ df = pd.read_csv("../data/supply_chain_data.csv", encoding="latin1")
 
 print(f"Original shape: {df.shape}")
 
-# 1. Drop fully/mostly empty columns (identified in Day 1)
+# 1. Drop fully/mostly empty columns (identified in Day 1) 
 df = df.drop(columns=["Product Description", "Order Zipcode"])
 
 # 2. Convert date columns to proper datetime
